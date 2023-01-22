@@ -1,7 +1,7 @@
 # Text-Generation using LSTM
 
 ## Dataset:
-HARRY POTTER AND THE GOBLET OF FIRE
+HARRY POTTER AND THE GOBLET OF FIRE<br>
 https://github.com/shahryarfp/LSTM-Text-Generation/blob/main/dataset.txt
 
 ## How to use:
