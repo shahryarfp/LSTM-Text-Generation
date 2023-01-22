@@ -12,5 +12,7 @@ https://github.com/shahryarfp/LSTM-Text-Generation/blob/main/dataset.txt
 ## Result:
 After 60 epochs the result was not satisfactory at all :)
 
+sample result:
+
 ![](./result.jpg)
 
